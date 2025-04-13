@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Welcome to CSR2 CARS GitHub By Z Money
 
-<!--
-**CSR2CARS/CSR2CARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 CSR2 Modder & Game Automation Developer  
+🛠️ Creator of high-performance tools & cheat packs for CSR Racing 2  
+🧠 Focused on building reliable, fast-loading solutions for mobile gamers  
+🚀 Shopify & eCommerce Specialist  
+🛒 Founder @Supportefy | Shopify Solutions  
+🏎️ Car Enthusiast | STI Owner  
+🔥 I turn online ideas into reality
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 What I Do
+
+- 🔧 Maxed Car Bundles for CSR2 (Prize Cars, Elite Customs & More)  
+- 🧰 CSR2 Cheats Packs (Gold, Keys, Elite Tokens)  
+- 🤖 Shopify-powered automation for CSR2 MOD APK-style deliveries  
+- 🛍️ E-commerce tools for digital racing mods  
+- 🧪 Automation systems & store builders for modding-related products  
+
+---
+
+## 📂 Highlighted Repositories
+
+- [`CSR2-Database`](https://github.com/CSR2CARS/CSR2-DataBase)  
+  Public resource of all CSR2 car import specs
+
+- [`CSR2-Racing-CollectionByWear`](https://github.com/CSR2CARS/CSR2-Racing-CollectionByWear)  
+  Community-contributed CSR2 modding resources
+
+- [`Shopify-XPOREFY`](https://github.com/CSR2CARS/Shopify-XPOREFY)  
+  Shopify app template for CSR2 digital product fulfillment
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 [CSR2STORE.com](https://csr2store.com)
+- 🌐 [CSR2mods.com](https://csr2mods.com)
+- 💬 Telegram: [@csr2cars](https://t.me/csr2cars)  
+- 📩 Email: [support@csr2mods.com](mailto:support@csr2mods.com)  
+- 🧠 [Supportefy](https://supportefy.com) — My SaaS & Shopify solutions hub  
+
+---
+
+> ⚙️ *“We don’t play the game — we build the garage.”*
