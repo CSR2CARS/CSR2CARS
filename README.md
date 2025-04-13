@@ -22,12 +22,6 @@
 
 ## 📂 Highlighted Repositories
 
-- [`CSR2-Database`](https://github.com/CSR2CARS/CSR2-DataBase)  
-  Public resource of all CSR2 car import specs
-
-- [`CSR2-Racing-CollectionByWear`](https://github.com/CSR2CARS/CSR2-Racing-CollectionByWear)  
-  Community-contributed CSR2 modding resources
-
 - [`Shopify-XPOREFY`](https://github.com/CSR2CARS/Shopify-XPOREFY)  
   Shopify app template for CSR2 digital product fulfillment
 
